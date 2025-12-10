@@ -1,0 +1,448 @@
+Fri, 23 May 2025 14:37:27 - INFO -  * Restarting with stat
+Fri, 23 May 2025 14:37:27 - WARNING -  * Debugger is active!
+Fri, 23 May 2025 14:37:27 - INFO -  * Debugger PIN: 586-811-556
+Fri, 23 May 2025 14:37:27 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Fri, 23 May 2025 14:38:02 - INFO - 127.0.0.1 - - [23/May/2025 14:38:02] "GET /ai?content=查询广州明天的天气 HTTP/1.1" 200 -
+Fri, 23 May 2025 14:38:03 - INFO - 127.0.0.1 - - [23/May/2025 14:38:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 23 May 2025 14:38:18 - INFO - 127.0.0.1 - - [23/May/2025 14:38:18] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+Fri, 23 May 2025 14:40:50 - INFO - 127.0.0.1 - - [23/May/2025 14:40:50] "GET /ai?content=查询广州明天的天气 HTTP/1.1" 200 -
+Fri, 23 May 2025 14:40:50 - INFO - 127.0.0.1 - - [23/May/2025 14:40:50] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+Fri, 23 May 2025 14:41:15 - INFO - 127.0.0.1 - - [23/May/2025 14:41:15] "GET /ai?content=hello HTTP/1.1" 200 -
+Fri, 23 May 2025 14:41:15 - INFO - 127.0.0.1 - - [23/May/2025 14:41:15] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+Fri, 23 May 2025 15:43:36 - INFO -  * Restarting with stat
+Fri, 23 May 2025 15:43:36 - WARNING -  * Debugger is active!
+Fri, 23 May 2025 15:43:36 - INFO -  * Debugger PIN: 122-761-876
+Fri, 23 May 2025 15:43:37 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Fri, 23 May 2025 15:45:52 - INFO - 127.0.0.1 - - [23/May/2025 15:45:52] "GET /ai?content=查询广州明天的天气 HTTP/1.1" 200 -
+Fri, 23 May 2025 15:45:53 - INFO - 127.0.0.1 - - [23/May/2025 15:45:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 23 May 2025 15:52:30 - INFO - 127.0.0.1 - - [23/May/2025 15:52:30] "GET /ai?content=查询明天的天气 HTTP/1.1" 200 -
+Fri, 23 May 2025 17:06:53 - INFO - 127.0.0.1 - - [23/May/2025 17:06:53] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+Fri, 23 May 2025 17:08:58 - INFO - 127.0.0.1 - - [23/May/2025 17:08:58] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+Fri, 23 May 2025 17:11:42 - INFO - 127.0.0.1 - - [23/May/2025 17:11:42] "GET /ai?content=你好 HTTP/1.1" 200 -
+Fri, 23 May 2025 17:11:43 - INFO - 127.0.0.1 - - [23/May/2025 17:11:43] "GET /ai?content=你好 HTTP/1.1" 200 -
+Fri, 23 May 2025 18:47:48 - INFO - 127.0.0.1 - - [23/May/2025 18:47:48] "GET /ai?content=查询北京的天气 HTTP/1.1" 200 -
+Fri, 23 May 2025 18:48:19 - INFO - 127.0.0.1 - - [23/May/2025 18:48:19] "GET /ai?content=你好、 HTTP/1.1" 200 -
+Fri, 23 May 2025 18:48:32 - INFO - 127.0.0.1 - - [23/May/2025 18:48:32] "GET /ai?content=请进行一个自我介绍 HTTP/1.1" 200 -
+Fri, 23 May 2025 18:50:35 - INFO - 127.0.0.1 - - [23/May/2025 18:50:35] "GET /ai?content=明天的天气是什么 HTTP/1.1" 200 -
+Fri, 23 May 2025 18:50:44 - INFO - 127.0.0.1 - - [23/May/2025 18:50:44] "GET /ai?content=今天的天气是什么 HTTP/1.1" 200 -
+Fri, 23 May 2025 18:50:56 - INFO - 127.0.0.1 - - [23/May/2025 18:50:56] "GET /ai?content=查询明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 09:34:42 - INFO -  * Restarting with stat
+Sat, 24 May 2025 09:34:43 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 09:34:43 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 09:34:43 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 09:36:21 - INFO - 127.0.0.1 - - [24/May/2025 09:36:21] "GET /ai?content=查询广州明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 09:36:21 - INFO - 127.0.0.1 - - [24/May/2025 09:36:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Sat, 24 May 2025 09:55:17 - INFO - 127.0.0.1 - - [24/May/2025 09:55:17] "GET /ai?content=查询明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 09:56:32 - INFO - 127.0.0.1 - - [24/May/2025 09:56:32] "GET /ai?content=查询明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 09:56:41 - INFO - 127.0.0.1 - - [24/May/2025 09:56:41] "GET /ai?content=查询北京明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 09:56:55 - INFO - 127.0.0.1 - - [24/May/2025 09:56:55] "GET /ai?content=查询明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 10:01:31 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\ChatApis.py', reloading
+Sat, 24 May 2025 10:01:31 - INFO -  * Restarting with stat
+Sat, 24 May 2025 10:01:32 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 10:01:32 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 10:01:32 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 10:02:07 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\ChatApis.py', reloading
+Sat, 24 May 2025 10:02:07 - INFO -  * Restarting with stat
+Sat, 24 May 2025 10:02:08 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 10:02:08 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 10:02:08 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 10:02:27 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\ChatApis.py', reloading
+Sat, 24 May 2025 10:02:27 - INFO -  * Restarting with stat
+Sat, 24 May 2025 10:02:28 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 10:02:28 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 10:02:28 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 10:02:53 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\ChatApis.py', reloading
+Sat, 24 May 2025 10:02:54 - INFO -  * Restarting with stat
+Sat, 24 May 2025 10:02:54 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 10:02:54 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 10:02:54 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 10:03:28 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\ChatApis.py', reloading
+Sat, 24 May 2025 10:03:28 - INFO -  * Restarting with stat
+Sat, 24 May 2025 10:03:29 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 10:03:29 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 10:03:29 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 10:03:59 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\ChatApis.py', reloading
+Sat, 24 May 2025 10:03:59 - INFO -  * Restarting with stat
+Sat, 24 May 2025 10:03:59 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 10:03:59 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 10:04:00 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 10:08:23 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\ChatApis.py', reloading
+Sat, 24 May 2025 10:08:24 - INFO -  * Restarting with stat
+Sat, 24 May 2025 10:08:25 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 10:08:25 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 10:08:25 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 10:11:12 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\ChatApis.py', reloading
+Sat, 24 May 2025 10:11:13 - INFO -  * Restarting with stat
+Sat, 24 May 2025 10:11:14 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 10:11:14 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 10:11:14 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 10:11:21 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\ChatApis.py', reloading
+Sat, 24 May 2025 10:11:21 - INFO -  * Restarting with stat
+Sat, 24 May 2025 10:11:22 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 10:11:22 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 10:11:22 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 10:11:37 - INFO - 127.0.0.1 - - [24/May/2025 10:11:37] "GET /ai?content=查询明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 10:11:42 - INFO - 127.0.0.1 - - [24/May/2025 10:11:42] "GET /ai?content=查询明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 10:29:31 - INFO -  * Restarting with stat
+Sat, 24 May 2025 10:29:32 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 10:29:32 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 10:29:32 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 10:29:39 - INFO - 127.0.0.1 - - [24/May/2025 10:29:39] "GET /ai?content=查询明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 10:29:52 - INFO - 127.0.0.1 - - [24/May/2025 10:29:52] "GET /ai?content=查询北京明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 11:18:42 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\WeatherApis.py', reloading
+Sat, 24 May 2025 11:18:42 - INFO -  * Restarting with stat
+Sat, 24 May 2025 11:18:43 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 11:18:43 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 11:18:43 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 11:19:03 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\WeatherApis.py', reloading
+Sat, 24 May 2025 11:19:03 - INFO -  * Restarting with stat
+Sat, 24 May 2025 11:19:04 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 11:19:04 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 11:19:04 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 11:20:25 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\WeatherApis.py', reloading
+Sat, 24 May 2025 11:20:25 - INFO -  * Restarting with stat
+Sat, 24 May 2025 11:20:26 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 11:20:26 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 11:20:26 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 11:27:01 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\WeatherApis.py', reloading
+Sat, 24 May 2025 11:27:01 - INFO -  * Restarting with stat
+Sat, 24 May 2025 11:27:02 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 11:27:02 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 11:27:02 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 11:27:58 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\action.py', reloading
+Sat, 24 May 2025 11:27:58 - INFO -  * Restarting with stat
+Sat, 24 May 2025 11:27:59 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 11:27:59 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 11:27:59 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 11:31:04 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\action.py', reloading
+Sat, 24 May 2025 11:31:04 - INFO -  * Restarting with stat
+Sat, 24 May 2025 11:31:05 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 11:31:05 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 11:31:05 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 11:31:32 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\action.py', reloading
+Sat, 24 May 2025 11:31:32 - INFO -  * Restarting with stat
+Sat, 24 May 2025 11:31:33 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 11:31:33 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 11:31:33 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 11:47:23 - INFO -  * Restarting with stat
+Sat, 24 May 2025 11:47:24 - WARNING -  * Debugger is active!
+Sat, 24 May 2025 11:47:24 - INFO -  * Debugger PIN: 122-761-876
+Sat, 24 May 2025 11:47:24 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sat, 24 May 2025 11:47:34 - INFO - 127.0.0.1 - - [24/May/2025 11:47:34] "GET /ai?content=查询北京明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 11:47:39 - INFO - 127.0.0.1 - - [24/May/2025 11:47:39] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+Sat, 24 May 2025 11:47:50 - INFO - 127.0.0.1 - - [24/May/2025 11:47:50] "GET /ai?content=查询明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 11:47:58 - INFO - 127.0.0.1 - - [24/May/2025 11:47:58] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sat, 24 May 2025 11:48:10 - INFO - 127.0.0.1 - - [24/May/2025 11:48:10] "GET /ai?content=你是随 HTTP/1.1" 200 -
+Sat, 24 May 2025 11:48:24 - INFO - 127.0.0.1 - - [24/May/2025 11:48:24] "GET /ai?content=查询广州的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 11:48:30 - INFO - 127.0.0.1 - - [24/May/2025 11:48:30] "GET /ai?content=查询广州的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 11:48:44 - INFO - 127.0.0.1 - - [24/May/2025 11:48:44] "GET /ai?content=查询北明天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 11:48:54 - INFO - 127.0.0.1 - - [24/May/2025 11:48:54] "GET /ai?content=查询北天的天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 11:49:03 - INFO - 127.0.0.1 - - [24/May/2025 11:49:03] "GET /ai?content=查询天气 HTTP/1.1" 200 -
+Sat, 24 May 2025 12:36:44 - INFO - 127.0.0.1 - - [24/May/2025 12:36:44] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 16:56:35 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8088
+Sun, 25 May 2025 16:56:35 - INFO - [33mPress CTRL+C to quit[0m
+Sun, 25 May 2025 16:56:35 - INFO -  * Restarting with watchdog (windowsapi)
+Sun, 25 May 2025 16:56:36 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 16:56:36 - INFO -  * Debugger PIN: 912-927-489
+Sun, 25 May 2025 17:00:14 - INFO -  * Restarting with stat
+Sun, 25 May 2025 17:00:14 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 17:00:14 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 17:00:14 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 17:00:30 - INFO - 127.0.0.1 - - [25/May/2025 17:00:30] "GET /ai?content=查询广州明天的天气 HTTP/1.1" 200 -
+Sun, 25 May 2025 17:00:30 - INFO - 127.0.0.1 - - [25/May/2025 17:00:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Sun, 25 May 2025 17:01:29 - INFO - 127.0.0.1 - - [25/May/2025 17:01:29] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 17:01:39 - INFO - 127.0.0.1 - - [25/May/2025 17:01:39] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 17:16:33 - INFO - 127.0.0.1 - - [25/May/2025 17:16:33] "GET /ai?content=%22你好%22 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:03:23 - INFO -  * Restarting with stat
+Sun, 25 May 2025 18:03:24 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 18:03:24 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 18:03:24 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 18:03:45 - INFO - 127.0.0.1 - - [25/May/2025 18:03:45] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:03:48 - INFO - 127.0.0.1 - - [25/May/2025 18:03:48] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:03:48 - INFO - 127.0.0.1 - - [25/May/2025 18:03:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Sun, 25 May 2025 18:03:59 - INFO - 127.0.0.1 - - [25/May/2025 18:03:59] "GET /ai?content=明天什么天气 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:04:07 - INFO - 127.0.0.1 - - [25/May/2025 18:04:07] "GET /ai?content=你是谁 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:04:10 - INFO - 127.0.0.1 - - [25/May/2025 18:04:10] "GET /ai?content=你是谁 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:04:15 - INFO - 127.0.0.1 - - [25/May/2025 18:04:15] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:04:19 - INFO - 127.0.0.1 - - [25/May/2025 18:04:19] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:04:23 - INFO - 127.0.0.1 - - [25/May/2025 18:04:23] "GET /ai?content=hello HTTP/1.1" 200 -
+Sun, 25 May 2025 18:04:34 - INFO - 127.0.0.1 - - [25/May/2025 18:04:34] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:20:44 - INFO -  * Restarting with stat
+Sun, 25 May 2025 18:20:45 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 18:20:45 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 18:20:45 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 18:21:07 - INFO - 127.0.0.1 - - [25/May/2025 18:21:07] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:09 - INFO - 127.0.0.1 - - [25/May/2025 18:21:09] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:19 - INFO - 127.0.0.1 - - [25/May/2025 18:21:19] "GET /ai?content=查询天气 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:25 - INFO - 127.0.0.1 - - [25/May/2025 18:21:25] "GET /ai?content=我是谁 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:30 - INFO - 127.0.0.1 - - [25/May/2025 18:21:30] "GET /ai?content=hello HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:34 - INFO - 127.0.0.1 - - [25/May/2025 18:21:34] "GET /ai?content=OK HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:39 - INFO - 127.0.0.1 - - [25/May/2025 18:21:39] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:42 - INFO - 127.0.0.1 - - [25/May/2025 18:21:42] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:50 - INFO - 127.0.0.1 - - [25/May/2025 18:21:50] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:53 - INFO - 127.0.0.1 - - [25/May/2025 18:21:53] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:55 - INFO - 127.0.0.1 - - [25/May/2025 18:21:55] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:55 - INFO - 127.0.0.1 - - [25/May/2025 18:21:55] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:56 - INFO - 127.0.0.1 - - [25/May/2025 18:21:56] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:21:56 - INFO - 127.0.0.1 - - [25/May/2025 18:21:56] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:22:04 - INFO - 127.0.0.1 - - [25/May/2025 18:22:04] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:22:05 - INFO - 127.0.0.1 - - [25/May/2025 18:22:05] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:22:05 - INFO - 127.0.0.1 - - [25/May/2025 18:22:05] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:22:06 - INFO - 127.0.0.1 - - [25/May/2025 18:22:06] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:22:07 - INFO - 127.0.0.1 - - [25/May/2025 18:22:07] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:22:08 - INFO - 127.0.0.1 - - [25/May/2025 18:22:08] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:22:09 - INFO - 127.0.0.1 - - [25/May/2025 18:22:09] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:22:09 - INFO - 127.0.0.1 - - [25/May/2025 18:22:09] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:22:10 - INFO - 127.0.0.1 - - [25/May/2025 18:22:10] "GET /ai?content=我想哭 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:22:56 - INFO - 127.0.0.1 - - [25/May/2025 18:22:56] "GET /ai?content=你好 HTTP/1.1" 200 -
+Sun, 25 May 2025 18:23:54 - INFO - 127.0.0.1 - - [25/May/2025 18:23:54] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:24:02 - INFO - 127.0.0.1 - - [25/May/2025 18:24:02] "GET /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:26:33 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\server.py', reloading
+Sun, 25 May 2025 18:26:33 - INFO -  * Restarting with stat
+Sun, 25 May 2025 18:26:34 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 18:26:34 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 18:26:34 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 18:26:47 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\server.py', reloading
+Sun, 25 May 2025 18:26:47 - INFO -  * Restarting with stat
+Sun, 25 May 2025 18:26:48 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 18:26:48 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 18:26:48 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 18:26:54 - INFO -  * Restarting with stat
+Sun, 25 May 2025 18:26:55 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 18:26:55 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 18:26:55 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 18:27:11 - INFO - 127.0.0.1 - - [25/May/2025 18:27:11] "[35m[1mGET /chat HTTP/1.1[0m" 500 -
+Sun, 25 May 2025 18:27:11 - INFO - 127.0.0.1 - - [25/May/2025 18:27:11] "GET /chat?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+Sun, 25 May 2025 18:27:11 - INFO - 127.0.0.1 - - [25/May/2025 18:27:11] "GET /chat?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+Sun, 25 May 2025 18:27:11 - INFO - 127.0.0.1 - - [25/May/2025 18:27:11] "GET /chat?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+Sun, 25 May 2025 18:27:12 - INFO - 127.0.0.1 - - [25/May/2025 18:27:12] "GET /chat?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+Sun, 25 May 2025 18:27:12 - INFO - 127.0.0.1 - - [25/May/2025 18:27:12] "GET /chat?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+Sun, 25 May 2025 18:37:12 - INFO - 127.0.0.1 - - [25/May/2025 18:37:12] "GET /chat HTTP/1.1" 200 -
+Sun, 25 May 2025 18:37:17 - INFO - 127.0.0.1 - - [25/May/2025 18:37:17] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:37:25 - INFO - 127.0.0.1 - - [25/May/2025 18:37:25] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:37:36 - INFO - 127.0.0.1 - - [25/May/2025 18:37:36] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:37:44 - INFO - 127.0.0.1 - - [25/May/2025 18:37:44] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:37:52 - INFO - 127.0.0.1 - - [25/May/2025 18:37:52] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:37:58 - INFO - 127.0.0.1 - - [25/May/2025 18:37:58] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:38:01 - INFO - 127.0.0.1 - - [25/May/2025 18:38:01] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:38:14 - INFO - 127.0.0.1 - - [25/May/2025 18:38:14] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:48:16 - INFO -  * Restarting with stat
+Sun, 25 May 2025 18:48:17 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 18:48:17 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 18:48:17 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 18:50:19 - INFO - 127.0.0.1 - - [25/May/2025 18:50:19] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:50:34 - INFO - 127.0.0.1 - - [25/May/2025 18:50:34] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:50:40 - INFO - 127.0.0.1 - - [25/May/2025 18:50:40] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:50:44 - INFO - 127.0.0.1 - - [25/May/2025 18:50:44] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 18:50:48 - INFO - 127.0.0.1 - - [25/May/2025 18:50:48] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+Sun, 25 May 2025 22:32:26 - INFO - 127.0.0.1 - - [25/May/2025 22:32:26] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 22:32:34 - INFO - 127.0.0.1 - - [25/May/2025 22:32:34] "POST /ai HTTP/1.1" 200 -
+Sun, 25 May 2025 22:56:32 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\action.py', reloading
+Sun, 25 May 2025 22:56:33 - INFO -  * Restarting with stat
+Sun, 25 May 2025 22:56:37 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 22:56:37 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 22:56:37 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 22:58:40 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\action.py', reloading
+Sun, 25 May 2025 22:58:40 - INFO -  * Restarting with stat
+Sun, 25 May 2025 22:58:42 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 22:58:42 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 22:58:43 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 23:00:10 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\action.py', reloading
+Sun, 25 May 2025 23:00:11 - INFO -  * Restarting with stat
+Sun, 25 May 2025 23:00:13 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 23:00:13 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 23:00:13 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 23:00:33 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\action.py', reloading
+Sun, 25 May 2025 23:00:33 - INFO -  * Restarting with stat
+Sun, 25 May 2025 23:00:35 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 23:00:35 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 23:00:35 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 23:05:49 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\action.py', reloading
+Sun, 25 May 2025 23:05:51 - INFO -  * Restarting with stat
+Sun, 25 May 2025 23:05:54 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 23:05:54 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 23:05:54 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 23:10:23 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\WeatherApis.py', reloading
+Sun, 25 May 2025 23:10:24 - INFO -  * Restarting with stat
+Sun, 25 May 2025 23:10:26 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 23:10:26 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 23:10:27 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Sun, 25 May 2025 23:11:24 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\WeatherApis.py', reloading
+Sun, 25 May 2025 23:11:24 - INFO -  * Restarting with stat
+Sun, 25 May 2025 23:11:26 - WARNING -  * Debugger is active!
+Sun, 25 May 2025 23:11:26 - INFO -  * Debugger PIN: 140-468-496
+Sun, 25 May 2025 23:11:27 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Mon, 26 May 2025 22:06:44 - INFO -  * Restarting with stat
+Mon, 26 May 2025 22:06:45 - WARNING -  * Debugger is active!
+Mon, 26 May 2025 22:06:45 - INFO -  * Debugger PIN: 138-737-919
+Mon, 26 May 2025 22:06:45 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Mon, 26 May 2025 22:07:48 - INFO - 127.0.0.1 - - [26/May/2025 22:07:48] "POST /ai HTTP/1.1" 200 -
+Mon, 26 May 2025 22:08:23 - INFO - 127.0.0.1 - - [26/May/2025 22:08:23] "POST /ai HTTP/1.1" 200 -
+Mon, 26 May 2025 22:12:09 - INFO - 127.0.0.1 - - [26/May/2025 22:12:09] "GET /ai?content=查询广州明天的天气 HTTP/1.1" 200 -
+Mon, 26 May 2025 22:12:09 - INFO - 127.0.0.1 - - [26/May/2025 22:12:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Mon, 26 May 2025 22:12:14 - INFO - 127.0.0.1 - - [26/May/2025 22:12:14] "GET /ai HTTP/1.1" 200 -
+Mon, 26 May 2025 22:12:21 - INFO - 127.0.0.1 - - [26/May/2025 22:12:21] "[33mGET /index HTTP/1.1[0m" 404 -
+Mon, 26 May 2025 22:12:27 - INFO - 127.0.0.1 - - [26/May/2025 22:12:27] "GET /chat HTTP/1.1" 200 -
+Mon, 26 May 2025 22:12:35 - INFO - 127.0.0.1 - - [26/May/2025 22:12:35] "POST /ai HTTP/1.1" 200 -
+Mon, 26 May 2025 22:12:41 - INFO - 127.0.0.1 - - [26/May/2025 22:12:41] "POST /ai HTTP/1.1" 200 -
+Mon, 26 May 2025 22:13:54 - INFO - 127.0.0.1 - - [26/May/2025 22:13:54] "GET /ai?content=你好 HTTP/1.1" 200 -
+Mon, 26 May 2025 22:13:57 - INFO - 127.0.0.1 - - [26/May/2025 22:13:57] "GET /ai?content=你好 HTTP/1.1" 200 -
+Mon, 26 May 2025 22:13:58 - INFO - 127.0.0.1 - - [26/May/2025 22:13:58] "GET /ai?content=你好 HTTP/1.1" 200 -
+Mon, 26 May 2025 22:13:59 - INFO - 127.0.0.1 - - [26/May/2025 22:13:59] "GET /ai?content=你好 HTTP/1.1" 200 -
+Mon, 26 May 2025 22:14:00 - INFO - 127.0.0.1 - - [26/May/2025 22:14:00] "GET /ai?content=你好 HTTP/1.1" 200 -
+Mon, 26 May 2025 22:14:01 - INFO - 127.0.0.1 - - [26/May/2025 22:14:01] "GET /ai?content=你好 HTTP/1.1" 200 -
+Mon, 26 May 2025 22:14:08 - INFO - 127.0.0.1 - - [26/May/2025 22:14:08] "POST /ai HTTP/1.1" 200 -
+Mon, 26 May 2025 22:37:02 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\WeatherApis.py', reloading
+Mon, 26 May 2025 22:37:02 - INFO -  * Restarting with stat
+Mon, 26 May 2025 22:37:03 - WARNING -  * Debugger is active!
+Mon, 26 May 2025 22:37:03 - INFO -  * Debugger PIN: 138-737-919
+Mon, 26 May 2025 22:37:03 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Mon, 26 May 2025 22:40:48 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\WeatherApis.py', reloading
+Mon, 26 May 2025 22:40:48 - INFO -  * Restarting with stat
+Mon, 26 May 2025 22:40:50 - WARNING -  * Debugger is active!
+Mon, 26 May 2025 22:40:50 - INFO -  * Debugger PIN: 138-737-919
+Mon, 26 May 2025 22:40:50 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Mon, 26 May 2025 22:42:56 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\WeatherApis.py', reloading
+Mon, 26 May 2025 22:42:56 - INFO -  * Restarting with stat
+Mon, 26 May 2025 22:42:57 - WARNING -  * Debugger is active!
+Mon, 26 May 2025 22:42:57 - INFO -  * Debugger PIN: 138-737-919
+Mon, 26 May 2025 22:42:57 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Mon, 26 May 2025 22:43:46 - INFO -  * Detected change in 'E:\\1专业\\课程项目\\ChitChatAssistant-master\\actions\\WeatherApis.py', reloading
+Mon, 26 May 2025 22:43:46 - INFO -  * Restarting with stat
+Mon, 26 May 2025 22:43:47 - WARNING -  * Debugger is active!
+Mon, 26 May 2025 22:43:47 - INFO -  * Debugger PIN: 138-737-919
+Mon, 26 May 2025 22:43:47 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Tue, 27 May 2025 12:27:23 - INFO -  * Restarting with stat
+Tue, 27 May 2025 12:27:24 - WARNING -  * Debugger is active!
+Tue, 27 May 2025 12:27:24 - INFO -  * Debugger PIN: 138-737-919
+Tue, 27 May 2025 12:27:24 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Tue, 27 May 2025 12:28:02 - INFO - 127.0.0.1 - - [27/May/2025 12:28:02] "POST /ai HTTP/1.1" 200 -
+Tue, 27 May 2025 12:29:38 - INFO - 127.0.0.1 - - [27/May/2025 12:29:38] "GET /ai?content=你好 HTTP/1.1" 200 -
+Tue, 27 May 2025 12:29:38 - INFO - 127.0.0.1 - - [27/May/2025 12:29:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Tue, 27 May 2025 12:29:46 - INFO - 127.0.0.1 - - [27/May/2025 12:29:46] "[33mGET /index HTTP/1.1[0m" 404 -
+Tue, 27 May 2025 12:29:53 - INFO - 127.0.0.1 - - [27/May/2025 12:29:53] "GET /chat HTTP/1.1" 200 -
+Tue, 27 May 2025 12:30:02 - INFO - 127.0.0.1 - - [27/May/2025 12:30:02] "POST /ai HTTP/1.1" 200 -
+Tue, 27 May 2025 12:30:11 - INFO - 127.0.0.1 - - [27/May/2025 12:30:11] "POST /ai HTTP/1.1" 200 -
+Tue, 27 May 2025 12:30:17 - INFO - 127.0.0.1 - - [27/May/2025 12:30:17] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+Tue, 27 May 2025 12:30:45 - INFO - 127.0.0.1 - - [27/May/2025 12:30:45] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:40:51 - INFO -  * Restarting with stat
+Wed, 28 May 2025 09:40:52 - WARNING -  * Debugger is active!
+Wed, 28 May 2025 09:40:52 - INFO -  * Debugger PIN: 138-737-919
+Wed, 28 May 2025 09:40:53 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Wed, 28 May 2025 09:42:24 - INFO - 127.0.0.1 - - [28/May/2025 09:42:24] "GET /chat HTTP/1.1" 200 -
+Wed, 28 May 2025 09:42:25 - INFO - 127.0.0.1 - - [28/May/2025 09:42:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Wed, 28 May 2025 09:42:32 - INFO - 127.0.0.1 - - [28/May/2025 09:42:32] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:42:41 - INFO - 127.0.0.1 - - [28/May/2025 09:42:41] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:42:51 - INFO - 127.0.0.1 - - [28/May/2025 09:42:51] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:43:08 - INFO - 127.0.0.1 - - [28/May/2025 09:43:08] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:43:32 - INFO - 127.0.0.1 - - [28/May/2025 09:43:32] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:44:32 - INFO - 127.0.0.1 - - [28/May/2025 09:44:32] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:50:02 - INFO - 127.0.0.1 - - [28/May/2025 09:50:02] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:51:44 - INFO - 127.0.0.1 - - [28/May/2025 09:51:44] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:51:57 - INFO - 127.0.0.1 - - [28/May/2025 09:51:57] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:52:16 - INFO - 127.0.0.1 - - [28/May/2025 09:52:16] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:54:24 - INFO - 127.0.0.1 - - [28/May/2025 09:54:24] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:54:47 - INFO - 127.0.0.1 - - [28/May/2025 09:54:47] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:55:40 - INFO - 127.0.0.1 - - [28/May/2025 09:55:40] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:55:58 - INFO - 127.0.0.1 - - [28/May/2025 09:55:58] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 09:56:15 - INFO - 127.0.0.1 - - [28/May/2025 09:56:15] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 10:05:02 - INFO - 127.0.0.1 - - [28/May/2025 10:05:02] "GET /chat HTTP/1.1" 200 -
+Wed, 28 May 2025 10:05:16 - INFO - 127.0.0.1 - - [28/May/2025 10:05:16] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 10:05:28 - INFO - 127.0.0.1 - - [28/May/2025 10:05:28] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 10:06:01 - INFO - 127.0.0.1 - - [28/May/2025 10:06:01] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 10:06:16 - INFO - 127.0.0.1 - - [28/May/2025 10:06:16] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 10:06:29 - INFO - 127.0.0.1 - - [28/May/2025 10:06:29] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 10:08:12 - INFO - 127.0.0.1 - - [28/May/2025 10:08:12] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 10:09:12 - INFO - 127.0.0.1 - - [28/May/2025 10:09:12] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 10:11:47 - INFO - 127.0.0.1 - - [28/May/2025 10:11:47] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 10:12:15 - INFO - 127.0.0.1 - - [28/May/2025 10:12:15] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 10:12:39 - INFO - 127.0.0.1 - - [28/May/2025 10:12:39] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 11:20:49 - INFO - 127.0.0.1 - - [28/May/2025 11:20:49] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 11:21:03 - INFO - 127.0.0.1 - - [28/May/2025 11:21:03] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 11:21:24 - INFO - 127.0.0.1 - - [28/May/2025 11:21:24] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 19:19:05 - INFO -  * Restarting with stat
+Wed, 28 May 2025 19:19:07 - WARNING -  * Debugger is active!
+Wed, 28 May 2025 19:19:07 - INFO -  * Debugger PIN: 138-737-919
+Wed, 28 May 2025 19:19:08 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Wed, 28 May 2025 19:19:26 - INFO - 127.0.0.1 - - [28/May/2025 19:19:26] "GET /chat HTTP/1.1" 200 -
+Wed, 28 May 2025 19:19:27 - INFO - 127.0.0.1 - - [28/May/2025 19:19:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Wed, 28 May 2025 19:20:01 - INFO - 127.0.0.1 - - [28/May/2025 19:20:01] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 19:20:14 - INFO - 127.0.0.1 - - [28/May/2025 19:20:14] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 19:20:27 - INFO - 127.0.0.1 - - [28/May/2025 19:20:27] "POST /ai HTTP/1.1" 200 -
+Wed, 28 May 2025 19:20:35 - INFO - 127.0.0.1 - - [28/May/2025 19:20:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+Fri, 30 May 2025 19:56:14 - INFO -  * Restarting with stat
+Fri, 30 May 2025 19:56:15 - WARNING -  * Debugger is active!
+Fri, 30 May 2025 19:56:15 - INFO -  * Debugger PIN: 140-468-496
+Fri, 30 May 2025 19:56:16 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Fri, 30 May 2025 19:56:48 - INFO - 127.0.0.1 - - [30/May/2025 19:56:48] "GET /chat HTTP/1.1" 200 -
+Fri, 30 May 2025 19:56:48 - INFO - 127.0.0.1 - - [30/May/2025 19:56:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 30 May 2025 19:56:59 - INFO - 127.0.0.1 - - [30/May/2025 19:56:59] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 19:57:12 - INFO - 127.0.0.1 - - [30/May/2025 19:57:12] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 19:57:23 - INFO - 127.0.0.1 - - [30/May/2025 19:57:23] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 19:57:36 - INFO - 127.0.0.1 - - [30/May/2025 19:57:36] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 19:57:49 - INFO - 127.0.0.1 - - [30/May/2025 19:57:49] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 19:57:58 - INFO - 127.0.0.1 - - [30/May/2025 19:57:58] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 19:58:28 - INFO - 127.0.0.1 - - [30/May/2025 19:58:28] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 19:58:55 - INFO - 127.0.0.1 - - [30/May/2025 19:58:55] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 19:59:16 - INFO - 127.0.0.1 - - [30/May/2025 19:59:16] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 19:59:45 - INFO - 127.0.0.1 - - [30/May/2025 19:59:45] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 20:00:34 - INFO - 127.0.0.1 - - [30/May/2025 20:00:34] "GET /chat HTTP/1.1" 200 -
+Fri, 30 May 2025 20:01:41 - INFO - 127.0.0.1 - - [30/May/2025 20:01:41] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 20:01:43 - INFO - 127.0.0.1 - - [30/May/2025 20:01:43] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 20:21:36 - INFO - 127.0.0.1 - - [30/May/2025 20:21:36] "GET /chat HTTP/1.1" 200 -
+Fri, 30 May 2025 20:22:11 - INFO - 127.0.0.1 - - [30/May/2025 20:22:11] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 20:22:42 - INFO - 127.0.0.1 - - [30/May/2025 20:22:42] "GET /chat HTTP/1.1" 200 -
+Fri, 30 May 2025 20:23:02 - INFO - 127.0.0.1 - - [30/May/2025 20:23:02] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 20:23:46 - INFO - 127.0.0.1 - - [30/May/2025 20:23:46] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 20:23:58 - INFO - 127.0.0.1 - - [30/May/2025 20:23:58] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 20:24:31 - INFO - 127.0.0.1 - - [30/May/2025 20:24:31] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 20:25:03 - INFO - 127.0.0.1 - - [30/May/2025 20:25:03] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 20:25:26 - INFO - 127.0.0.1 - - [30/May/2025 20:25:26] "POST /ai HTTP/1.1" 200 -
+Fri, 30 May 2025 20:25:41 - INFO - 127.0.0.1 - - [30/May/2025 20:25:41] "POST /ai HTTP/1.1" 200 -
+Mon, 14 Jul 2025 21:44:03 - INFO -  * Restarting with stat
+Mon, 14 Jul 2025 21:44:04 - WARNING -  * Debugger is active!
+Mon, 14 Jul 2025 21:44:04 - INFO -  * Debugger PIN: 284-965-220
+Mon, 14 Jul 2025 21:44:04 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Mon, 14 Jul 2025 21:44:15 - INFO - 127.0.0.1 - - [14/Jul/2025 21:44:15] "[37mGET /chat HTTP/1.1[0m" 200 -
+Mon, 14 Jul 2025 21:44:15 - INFO - 127.0.0.1 - - [14/Jul/2025 21:44:15] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__4ddd1c39_70bc_4007_bfc5_1faee1916e12__0 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 21:44:15 - INFO - 127.0.0.1 - - [14/Jul/2025 21:44:15] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__956345d5_be1e_413d_9e6e_d25d89be12ae__1 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 21:46:45 - INFO - 127.0.0.1 - - [14/Jul/2025 21:46:45] "[37mPOST /ai HTTP/1.1[0m" 200 -
+Mon, 14 Jul 2025 21:58:11 - INFO -  * Restarting with stat
+Mon, 14 Jul 2025 21:58:12 - WARNING -  * Debugger is active!
+Mon, 14 Jul 2025 21:58:12 - INFO -  * Debugger PIN: 284-965-220
+Mon, 14 Jul 2025 21:58:12 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Mon, 14 Jul 2025 22:00:35 - INFO - 127.0.0.1 - - [14/Jul/2025 22:00:35] "[37mGET /chat HTTP/1.1[0m" 200 -
+Mon, 14 Jul 2025 22:00:35 - INFO - 127.0.0.1 - - [14/Jul/2025 22:00:35] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__87bda2ac_406f_4aec_baac_2e36e4d397d8__0 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 22:00:35 - INFO - 127.0.0.1 - - [14/Jul/2025 22:00:35] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__a0fd3ee8_5bda_4a26_aa44_8c9d079ef9bc__1 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 22:00:48 - INFO - 127.0.0.1 - - [14/Jul/2025 22:00:48] "[35m[1mPOST /ai HTTP/1.1[0m" 500 -
+Mon, 14 Jul 2025 22:03:02 - INFO -  * Restarting with watchdog (windowsapi)
+Mon, 14 Jul 2025 22:03:02 - WARNING -  * Debugger is active!
+Mon, 14 Jul 2025 22:03:02 - INFO -  * Debugger PIN: 178-200-796
+Mon, 14 Jul 2025 22:03:02 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Mon, 14 Jul 2025 22:03:09 - INFO - 127.0.0.1 - - [14/Jul/2025 22:03:09] "GET /chat HTTP/1.1" 200 -
+Mon, 14 Jul 2025 22:03:09 - INFO - 127.0.0.1 - - [14/Jul/2025 22:03:09] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__c8eedfe2_191c_4a15_a486_506e285fa4c9__0 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 22:03:09 - INFO - 127.0.0.1 - - [14/Jul/2025 22:03:09] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__1a5556ba_b867_46d9_a7ef_23f446544675__1 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 22:03:18 - INFO - 127.0.0.1 - - [14/Jul/2025 22:03:18] "POST /ai HTTP/1.1" 200 -
+Mon, 14 Jul 2025 22:03:32 - INFO - 127.0.0.1 - - [14/Jul/2025 22:03:32] "POST /ai HTTP/1.1" 200 -
+Mon, 14 Jul 2025 22:06:08 - INFO - 127.0.0.1 - - [14/Jul/2025 22:06:08] "GET /chat HTTP/1.1" 200 -
+Mon, 14 Jul 2025 22:06:08 - INFO - 127.0.0.1 - - [14/Jul/2025 22:06:08] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__a4e23125_3803_4dc2_825c_25559be46cff__0 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 22:06:08 - INFO - 127.0.0.1 - - [14/Jul/2025 22:06:08] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__560649df_1e97_4556_bcd0_96e50efcbe66__1 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 22:10:52 - INFO - 127.0.0.1 - - [14/Jul/2025 22:10:52] "GET /chat HTTP/1.1" 200 -
+Mon, 14 Jul 2025 22:10:52 - INFO - 127.0.0.1 - - [14/Jul/2025 22:10:52] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__a30e8a69_0976_4d3f_aa27_316cced1c94c__0 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 22:10:52 - INFO - 127.0.0.1 - - [14/Jul/2025 22:10:52] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__003cb89b_2413_4e30_a51d_4ad59f62a086__1 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 22:11:09 - INFO - 127.0.0.1 - - [14/Jul/2025 22:11:09] "POST /ai HTTP/1.1" 200 -
+Mon, 14 Jul 2025 22:12:07 - INFO - 127.0.0.1 - - [14/Jul/2025 22:12:07] "GET /chat HTTP/1.1" 200 -
+Mon, 14 Jul 2025 22:12:07 - INFO - 127.0.0.1 - - [14/Jul/2025 22:12:07] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__c320399f_5ec5_44c7_9751_75220a5f8d49__0 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 22:12:07 - INFO - 127.0.0.1 - - [14/Jul/2025 22:12:07] "[33mGET /hybridaction/zybTrackerStatisticsAction?data=%7B%7D&__callback__=__cb__zybTrackerStatisticsAction__18d033bd_07b4_493e_ac3c_29acc6325fc2__1 HTTP/1.1[0m" 404 -
+Mon, 14 Jul 2025 22:12:13 - INFO - 127.0.0.1 - - [14/Jul/2025 22:12:13] "POST /ai HTTP/1.1" 200 -
+Mon, 14 Jul 2025 22:12:22 - INFO -  * Detected change in 'D:\\Anaconda\\envs\\rasa\\Lib\\site-packages\\jwt\\utils.py', reloading
+Mon, 14 Jul 2025 22:12:23 - INFO -  * Restarting with watchdog (windowsapi)
+Mon, 14 Jul 2025 22:12:24 - WARNING -  * Debugger is active!
+Mon, 14 Jul 2025 22:12:24 - INFO -  * Debugger PIN: 178-200-796
+Mon, 14 Jul 2025 22:12:24 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)
+Mon, 14 Jul 2025 22:12:27 - INFO -  * Detected change in 'D:\\Anaconda\\envs\\rasa\\Lib\\site-packages\\sanic\\server.py', reloading
+Mon, 14 Jul 2025 22:12:29 - INFO -  * Restarting with watchdog (windowsapi)
+Mon, 14 Jul 2025 22:12:29 - WARNING -  * Debugger is active!
+Mon, 14 Jul 2025 22:12:29 - INFO -  * Debugger PIN: 178-200-796
+Mon, 14 Jul 2025 22:12:29 - INFO -  * Running on http://127.0.0.1:8088/ (Press CTRL+C to quit)

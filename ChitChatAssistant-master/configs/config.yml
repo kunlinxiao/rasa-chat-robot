@@ -1,0 +1,23 @@
+language: "zh"
+
+pipeline:    # Rasa执行的模块和顺序
+- name: "MitieNLP"        # 加载中文词向量
+  model: "data/total_word_feature_extractor_zh.dat"
+- name: "JiebaTokenizer"  # 进行分词
+  dictionary_path: "data/dict/userdict.txt"
+- name: "MitieEntityExtractor"   # 使用mitie提取nlu数据中标注的实体
+- name: "EntitySynonymMapper"    # 同义词映射
+- name: "RegexFeaturizer"        # 允许在nlu训练时使用正则表达式提取一些特定模式
+- name: "MitieFeaturizer"        # 使用 MITIE 向量将文本转成特征，为意图分类器提供输入
+- name: "SklearnIntentClassifier"    # 基于特征判断话题意图
+
+policies:    #  对话策略
+- name: KerasPolicy   # 深度学习（Keras）记住用户和机器最近的对话内容
+  epochs: 100
+  max_history: 5
+- name: FallbackPolicy   # 说了些 Rasa 根本听不懂的话（比如没训练过的内容），就执行默认 action
+  fallback_action_name: 'action_default_fallback'
+- name: MemoizationPolicy
+  max_history: 5
+- name: FormPolicy
+assistant_id: 20250522-175922-poky-span

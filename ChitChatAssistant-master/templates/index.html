@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>Rasa 聊天机器人</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        #chat-box { border: 1px solid #ccc; padding: 10px; height: 400px; overflow-y: scroll; margin-bottom: 10px; }
+        .msg { margin: 5px 0; }
+        .user { color: blue; }
+        .bot { color: green; }
+    </style>
+</head>
+<body>
+<h2>Rasa 聊天机器人</h2>
+<div id="chat-box"></div>
+<input type="text" id="user-input" placeholder="请输入你的问题..." style="width: 70%;">
+<button onclick="sendMessage()">发送</button>
+
+<script>
+    function addMessage(role, text) {
+        const chatBox = document.getElementById('chat-box');
+        const msgDiv = document.createElement('div');
+        msgDiv.className = 'msg ' + role;
+        msgDiv.textContent = (role === 'user' ? '🧍‍♂️你: ' : '🤖机器人: ') + text;
+        chatBox.appendChild(msgDiv);
+        chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    function sendMessage() {
+        const input = document.getElementById('user-input');
+        const message = input.value.trim();
+        if (!message) return;
+
+        addMessage('user', message);
+        input.value = '';
+
+        fetch('http://127.0.0.1:8088/ai', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+            body: 'content=' + encodeURIComponent(message)
+        })
+            .then(response => response.text())
+            .then(data => addMessage('bot', data))
+            .catch(error => addMessage('bot', '⚠️ 请求出错: ' + error));
+    }
+</script>
+</body>
+</html>

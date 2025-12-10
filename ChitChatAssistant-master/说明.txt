@@ -1,0 +1,40 @@
+打开anaconda prompt
+创建虚拟环境
+conda create --name ChitChatAssistant-master python=3.6
+激活虚拟环境
+conda activate ChitChatAssistant-master
+
+进入Mitie源码根目录进行手动下载mitie包
+cd /d F:\aax\MITIE-0.7\
+运行命令：
+python setup.py build
+python setup.py install
+
+下载jieba库 
+pip install jieba
+
+进入项目根目录
+cd /d E:\1专业\课程项目\ChitChatAssistant-master
+根据requirements.txt安装依赖
+pip install -r requirements.txt
+
+
+运行项目
+
+conda activate ChitChatAssistant-master
+cd /d E:\1专业\课程项目\ChitChatAssistant-master
+（自定义临时路径，避免权限问题）
+set TMP=C:\temp
+set TEMP=C:\temp
+
+
+启动rasa
+python -m rasa run --port 5005 --enable-api --cors "*" --model models/20200410-161951.tar.gz --endpoints configs/endpoints.yml --credentials configs/credentials.yml --debug
+
+启动action
+Python -m rasa run actions --port 5055 --actions actions --debug 
+
+启动服务
+python server.py
+
+打开网页：http://127.0.0.1:8088/chat
